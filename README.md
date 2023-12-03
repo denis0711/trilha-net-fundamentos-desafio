@@ -1,3 +1,22 @@
+# Conclusão 
+
+Criei mais 2 Objetos chamados Veiculo e TipoVeiculo
+agora o usuário tera que passar o Preco inicial de acordo com o Tipo do Veiculo
+
+Quando Adiciona o veiculo eu faço o usuario digitar todas as Opcões Cadastrais dele
+
+na hora de remover eu uso tudo que o Linq tem a oferecer buscando o Veiculo removido com o FirstOrDefault para pegar
+do meu objeto o veiculo que cai da condição
+
+E no Objeto Veiculo  Retorno as informaçoes do Veiculo e coloco o metodo de soma do Total
+
+Decidi fazer isso para ficar mais separado chegando próximo a uma Orientação Objeto
+
+Validando também a remover o usuario Digitar uma placa correta
+
+
+
+
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
